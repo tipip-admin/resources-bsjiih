@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tipip-admin.github.io/resources-bsjiih/sitemap.xml
